@@ -1,0 +1,14 @@
+process.env.NODE_ENV = 'test';
+process.env.PORT = '4001';
+process.env.MONGODB_URI = 'mongodb://admin:leadgen_secret@localhost:27017/leadgen_test?authSource=admin';
+process.env.REDIS_HOST = 'localhost';
+process.env.REDIS_PORT = '6380';
+process.env.ENCRYPTION_KEY = 'a'.repeat(64);
+process.env.JWT_ACCESS_SECRET = 'test_access_secret_that_is_long_enough_for_validation';
+process.env.JWT_REFRESH_SECRET = 'test_refresh_secret_that_is_long_enough_for_validation';
+process.env.ADMIN_USERNAME = 'admin';
+process.env.ADMIN_PASSWORD_HASH = '$2a$10$09Z/UkJGm4s3r9x6MwifF.KNCjRkWxnykOIhr7Wc/4CmYHGcLSrJi';
+process.env.GROQ_API_KEY = 'gsk_test_key_not_real';
+process.env.FRONTEND_URL = 'http://localhost:5173';
+process.env.RATE_LIMIT_WINDOW_MS = '900000';
+process.env.RATE_LIMIT_MAX = '100';
