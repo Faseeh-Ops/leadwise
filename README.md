@@ -28,19 +28,19 @@ You can view the full architecture and code structure here: [LeadWise Repository
 
 <!-- Add your screenshots here. Follow the instructions in the 'How to add images' section below. -->
 <img width="1021" height="227" alt="1779443147292" src="https://github.com/user-attachments/assets/5284c4e1-cfd1-43ec-a828-d438c3a912c9" />
---## Campaigns--
+Campaigns
 <img width="1280" height="672" alt="1779443147532" src="https://github.com/user-attachments/assets/d37a0bf8-a421-4469-8d99-ae6e5dae41a7" />
-## Seetings
+Seetings
 <img width="1280" height="663" alt="1779443148051" src="https://github.com/user-attachments/assets/a5ce37c7-30ed-428b-8482-e2f8f4d540d8" />
-## Leads
+Leads
 <img width="1280" height="670" alt="1779443147777" src="https://github.com/user-attachments/assets/69e00476-0bf4-4121-8618-80ca067ea8c7" />
-## Email Sequence
+Email Sequence
 <img width="1280" height="670" alt="1779443148014" src="https://github.com/user-attachments/assets/c2f00ebe-0d20-4f24-ba3c-747b0711a370" />
-## Email Sent
+Email Sent
 
 <img width="1280" height="752" alt="1779443147984" src="https://github.com/user-attachments/assets/f9f83786-7207-4d37-a4e1-477f335adcbd" />
 
-## Tech Stack
+Tech Stack
 
 *   **Frontend:** React, Vite, Tailwind CSS
 *   **Backend:** Node.js
