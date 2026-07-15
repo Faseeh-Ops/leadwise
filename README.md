@@ -18,7 +18,7 @@ LeadWise is a high-performance B2B outreach engine designed to replace generic, 
 This project is built for reliability and scalability. The decoupling of the scraping engine from the email delivery pipeline ensures that load spikes are handled gracefully by the BullMQ worker clusters.
 
 ## Project Demo
-You can view the full architecture and code structure here: [LeadWise Repository](https://lnkd.in/dyA2kRf6)
+You can view the full architecture and code structure here: [LeadWise Repository](https://github.com/Faseeh-Ops/leadwise)
 
 ---
 
@@ -28,11 +28,15 @@ You can view the full architecture and code structure here: [LeadWise Repository
 
 <!-- Add your screenshots here. Follow the instructions in the 'How to add images' section below. -->
 <img width="1021" height="227" alt="1779443147292" src="https://github.com/user-attachments/assets/5284c4e1-cfd1-43ec-a828-d438c3a912c9" />
+## Campaigns
 <img width="1280" height="672" alt="1779443147532" src="https://github.com/user-attachments/assets/d37a0bf8-a421-4469-8d99-ae6e5dae41a7" />
-
+## Seetings
 <img width="1280" height="663" alt="1779443148051" src="https://github.com/user-attachments/assets/a5ce37c7-30ed-428b-8482-e2f8f4d540d8" />
+## Leads
 <img width="1280" height="670" alt="1779443147777" src="https://github.com/user-attachments/assets/69e00476-0bf4-4121-8618-80ca067ea8c7" />
+## Email Sequence
 <img width="1280" height="670" alt="1779443148014" src="https://github.com/user-attachments/assets/c2f00ebe-0d20-4f24-ba3c-747b0711a370" />
+## Email Sent
 
 <img width="1280" height="752" alt="1779443147984" src="https://github.com/user-attachments/assets/f9f83786-7207-4d37-a4e1-477f335adcbd" />
 
@@ -46,6 +50,4 @@ You can view the full architecture and code structure here: [LeadWise Repository
 *   **Security:** AES-256-GCM
 
 ---
-*Built with passion for efficient engineering.*
-README.md
-Displaying README.md.
+
